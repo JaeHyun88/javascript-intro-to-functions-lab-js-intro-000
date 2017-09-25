@@ -25,7 +25,3 @@ function sayHiToGrandma(string) {
     return "I love you, too."
   }
 }
-
-function happyHolidays() {
-  return "Happy holidays!"
-}
